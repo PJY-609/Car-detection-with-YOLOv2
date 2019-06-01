@@ -4,6 +4,6 @@
 
 2. Enter commands below in terminal:
 
-   `cat yolo.h5.tar.gz.part-a* yolo.h5.tar.gz.part-b* > yolo.h5.tar.gz`
+   `cat yolo.h5.tar.gz.part-a* yolo.h5.tar.gz.part-b* > yolo.h5.tar.gz`  
    `tar -xvf yolo.h5.tar.gz`
 
